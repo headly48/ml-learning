@@ -1,0 +1,5 @@
+wheel
+pettingzoo
+SuperSuit
+stable-baselines3
+flatland-rl = 3.0.3
